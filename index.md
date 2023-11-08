@@ -9,7 +9,7 @@ Join us share your experience, explore topics of interest, find collaborators fo
 ## Meetings
 We meet once a month, every fourth Monday from 16:00 - 17:00 UK time (GMT or BST).
 
-Check out our [previous & upcoming meetings](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw?both#Past-amp-Upcoming-Meetings).
+Find out [meeting details](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw?both#Past-amp-Upcoming-Meetings) or check out our [previous & upcoming meetings](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw?both#Past-amp-Upcoming-Meetings).
 
 ## Mailing list
 Carpentries UK Community mailing list [local-uk](https://carpentries.topicbox.com/groups/local-uk) can be joined via [The Carpentries Topicbox](https://carpentries.topicbox.com).
