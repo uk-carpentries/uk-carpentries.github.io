@@ -11,12 +11,14 @@ We meet once a month, every fourth Monday from 16:00 - 17:00 UK time (GMT or BST
 
 Check out our [previous & upcoming meetings](https://hackmd.io/V3ReKkEESzqyCNxWJdulOw?both#Past-amp-Upcoming-Meetings).
 
+## Mailing list
+Carpentries UK Community mailing list [local-uk](https://carpentries.topicbox.com/groups/local-uk) can be joined via [The Carpentries Topicbox](https://carpentries.topicbox.com).
+
+## Slack
+We ran the Carpentries UK Community [Slack channel](https://swcarpentry.slack.com/archives/CLE8WUGMA) within [The Carpentries Slack Workspace](https://swc-slack-invite.herokuapp.com/).
 
 ## Useful links
 - UK Community workspace on HackMD: https://hackmd.io/@local-uk and [its navigation view](https://hackmd.io/team/local-uk?nav=overview) (requires logging in to HackMD)
-- [Previous & upcoming meetings](#Past-amp-Upcoming-Meetings)**
-- Carpentries UK Community mailing list [local-uk](https://carpentries.topicbox.com/groups/local-uk) 
-- Carpentries UK Community [Slack channel](https://swcarpentry.slack.com/archives/CLE8WUGMA) within [The Carpentries Slack Workspace](https://swc-slack-invite.herokuapp.com/)
 - [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Connect with the [general Carpentries community](https://carpentries.org/connect/) - twitter, mailing lists, blog, slack, community calendar
 - [Carpentries Handbook](https://docs.carpentries.org/index.html) - a comprehensive resource for all things Carpentries 
