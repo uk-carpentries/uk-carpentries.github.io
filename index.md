@@ -6,6 +6,9 @@ registering workshops with the Carpentries, Carpentry institutional membership o
 
 Join us share your experience, explore topics of interest, find collaborators for training related projects and network.
 
+![UK Carpentry community photo from Carpentry Connect 2019 conference in Manchester](https://github.com/uk-carpentries/uk-carpentries.github.io/blob/main/fig/CCMcr19photo.JPG)\
+*Photo by Mario Antonioletti*
+
 ## Meetings
 We meet once a month, every fourth Monday from 16:00 - 17:00 UK time (GMT or BST).
 
