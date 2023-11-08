@@ -17,9 +17,11 @@ Carpentries UK Community mailing list [local-uk](https://carpentries.topicbox.co
 ## Slack
 We ran the Carpentries UK Community [Slack channel](https://swcarpentry.slack.com/archives/CLE8WUGMA) within [The Carpentries Slack Workspace](https://swc-slack-invite.herokuapp.com/).
 
+## Code of Conduct
+We abide by [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+
 ## Useful links
 - UK Community workspace on HackMD: https://hackmd.io/@local-uk and [its navigation view](https://hackmd.io/team/local-uk?nav=overview) (requires logging in to HackMD)
-- [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 - Connect with the [general Carpentries community](https://carpentries.org/connect/) - twitter, mailing lists, blog, slack, community calendar
 - [Carpentries Handbook](https://docs.carpentries.org/index.html) - a comprehensive resource for all things Carpentries 
 - [Carpentries workshop FAQ](https://carpentries.org/workshop_faq/)
