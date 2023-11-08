@@ -6,7 +6,7 @@ registering workshops with the Carpentries, Carpentry institutional membership o
 
 Join us share your experience, explore topics of interest, find collaborators for training related projects and network.
 
-![UK Carpentry community photo from Carpentry Connect 2019 conference in Manchester](../fig/CCMcr19photo.JPG)
+![UK Carpentry community photo from Carpentry Connect 2019 conference in Manchester](../fig/CCMcr19photo.JPG)\
 *Photo by Mario Antonioletti*
 
 ## Meetings
